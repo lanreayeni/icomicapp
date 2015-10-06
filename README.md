@@ -1,4 +1,4 @@
-#Landy
+#iComic
 
 This website was created using the Landy template.
 
